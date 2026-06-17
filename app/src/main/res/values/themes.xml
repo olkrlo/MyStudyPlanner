@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyStudyPlanner" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/pink_pastel</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:colorBackground">@color/bg_main</item>
+        <item name="colorSurface">@color/color_white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/bg_header</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- DatePicker custom theme -->
+    <style name="DatePickerTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">@color/lavender_dark</item>
+        <item name="colorOnPrimary">@color/color_white</item>
+        <item name="colorSurface">@color/color_white</item>
+        <item name="android:colorBackground">@color/bg_main</item>
+    </style>
+
+    <!-- AlertDialog theme -->
+    <style name="AlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/lavender_dark</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+    </style>
+
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/delete_icon_color</item>
+    </style>
+</resources>

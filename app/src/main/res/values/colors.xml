@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pastel Palette -->
+    <color name="lavender">#DCC6FF</color>
+    <color name="lavender_dark">#A78BE8</color>
+    <color name="pink_pastel">#FFD6E8</color>
+    <color name="mint">#D7FBE8</color>
+    <color name="baby_blue">#D6EFFF</color>
+
+    <!-- Background -->
+    <color name="bg_main">#FFF8FC</color>
+    <color name="bg_header">#F0E6FF</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <!-- Card backgrounds (for task items) -->
+    <color name="card_lavender">#EDE0FF</color>
+    <color name="card_pink">#FFE8F3</color>
+    <color name="card_mint">#E4FFF3</color>
+    <color name="card_blue">#E4F3FF</color>
+
+    <!-- Priority colors (badge backgrounds) -->
+    <color name="priority_high">#FFB3C6</color>
+    <color name="priority_medium">#FFF2B3</color>
+    <color name="priority_low">#B3F5D6</color>
+
+    <!-- Text -->
+    <color name="text_primary">#3D2C5A</color>
+    <color name="text_secondary">#8A7AA0</color>
+
+    <!-- Delete button -->
+    <color name="delete_icon_color">#E57373</color>
+
+    <!-- Material required -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
