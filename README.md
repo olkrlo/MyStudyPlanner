@@ -6,7 +6,7 @@
 
 ## 👥 Kelompok
 
-| Nama | NIM |
+| Nama | NRP|
 |------|-----|
 | Nona Auliya Wijaya | 5025231301 |
 | Dzikrina Hidayani Martin | 5025231311 |
